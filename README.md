@@ -2,4 +2,4 @@
 Python code for cleaning and filtering the W2 curves
 
 # Required Libraries
-numpy, pandas, statsmodels
+json, numpy, pandas, statsmodels
